@@ -23,4 +23,6 @@ True or False: A single runtime package can be deployed to different devices lik
 ## TRUE
 <strong>Correct!</strong> As long as you select all the hardwares you wish to deploy to when creating the runtime package, you can deploy it to those selected devices.
 
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+
 
