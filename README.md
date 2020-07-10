@@ -15,7 +15,11 @@ Don´t forget to source the OpenVINO environment and navigate to the proper dire
 * If you like, try creating a runtime package of your own application (like something you built in the lesson on reducing model operations)
 
 ![image1](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-PACKAGING-YOUR-APPLICATION-/master/ex1.jpg)
+
+
 ![image2](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-PACKAGING-YOUR-APPLICATION-/master/ex2.jpg)
+
+
 ![image3](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-PACKAGING-YOUR-APPLICATION-/master/ex3.jpg)
 
 True or False: A single runtime package can be deployed to different devices like a VPU, FPGA and Int. GPU.
